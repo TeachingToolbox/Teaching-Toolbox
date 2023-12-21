@@ -43,7 +43,7 @@ Teaching Toolbox（教学工具箱）是一款使用于教学的工具箱，可�
     <code class="Python">
     def random_pick(): 
         global chose_name
-        names=['Python','Java'.'C++','C#','Swift''Kotlin'] 
+        names=['Python','Java','C++','C#','Swift''Kotlin'] 
     </code>
     </pre>
     按照naems格式填写名字，就可以完成配置，当然这目前是初版，后续会打开外部文件读取人名列表抽取（目前这个方法只适用于Python源代码运行）
